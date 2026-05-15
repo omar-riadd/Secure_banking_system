@@ -66,6 +66,11 @@ This runs all 7 phases:
 ```bash
 python main.py --benchmark
 ```
+### 3. Run with GUI
+
+```bash
+python gui.py
+```
 
 ---
 
